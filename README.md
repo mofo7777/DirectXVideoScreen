@@ -25,6 +25,8 @@ A DirectX9 program to convert BGRA texture to NV12 texture, using the video proc
 
 A DirectX11 program to convert BGRA texture to NV12 texture, using shader only.
 
+![ShaderNV12](./DirectXVideoScreen/Media/ShaderNV12.jpg)
+
 ## D3D11VideoProcessor
 
 A DirectX11 program to convert BGRA texture to NV12 texture, using the video processor from the GPU.
