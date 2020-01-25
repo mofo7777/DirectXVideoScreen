@@ -2,7 +2,7 @@
 
 * D3D9RenderShaderYUV : ok
 * D3D9VideoProcessor : ok
-* D3D11ShaderNV12 : ok
+* D3D11ShaderNV12 : ok (just a check to do with GPU NV12 format support)
 * D3D11VideoProcessor : ok
 * DirectXVideoScreen : not started
 * SimpleDesktopDuplication : ok
